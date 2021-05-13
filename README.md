@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RoastedProgram
+- 👀 I’m interested in Minecraft
+- 🌱 I’m currently learning how to code a MC Mod
